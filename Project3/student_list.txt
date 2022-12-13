@@ -1,0 +1,32 @@
+Name: Bella
+ID: 10890101
+Email: 10890101@me.mcu.edu.tw
+Phone Number: 886912960882
+Name: Jeremy
+ID: 10890402
+Email: 10890402@me.mcu.edu.tw
+Phone Number: 886914265752
+Name: LingLing
+ID: 10890082
+Email: 10890082@me.mcu.edu.tw
+Phone Number: 886953077673
+Name: Katelyn
+ID: 10890064
+Email: 10890064@me.mcu.edu.tw
+Phone Number: 886924891192
+Name: Stella
+ID: 10890091
+Email: 10890091@me.mcu.edu.tw
+Phone Number: 886964600865
+Name: Alice
+ID: 10890030
+Email: 10890030@me.mcu.edu.tw
+Phone Number: 886400011621
+Name: Vivian
+ID: 10890046
+Email: 10890046@me.mcu.edu.tw
+Phone Number: 886973414028
+Name: Cara
+ID: 10890021
+Email: 10890021@me.mcu.edu.tw
+Phone Number: 886400011462
